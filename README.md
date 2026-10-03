@@ -6,7 +6,7 @@ I wrote a python-based backend that integrates with a remote Google Cloud Firest
 
 My purpose for writing this software was to build an organized storage system for text chunks. You can think of this program as a digital data pantry. When text strings come in, this backend shelves them, categorizes them, and lets you pull them back down using keyword searches.
 
-[Software Demo Video](http://goes.here)
+[Software Demo Video](https://youtu.be/HZCRvQBp7-s)
 
 # Cloud Database
 
