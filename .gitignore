@@ -1,0 +1,7 @@
+# Block Google Private Security Keys from GitHub
+serviceAccountKey.json
+
+# Block Python compilation artifacts
+__pycache__/
+*.pyc
+.env
